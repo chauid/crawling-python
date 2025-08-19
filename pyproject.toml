@@ -9,6 +9,10 @@ dependencies = [
     "beautifulsoup4",
     "lxml>=6.0.0",
     "pandas>=2.3.1",
+    "selenium>=4.35.0",
+    "webdriver-manager>=4.0.2",
+    "openpyxl>=3.1.5",
+    "tqdm>=4.67.1",
 ]
 
 [dependency-groups]
